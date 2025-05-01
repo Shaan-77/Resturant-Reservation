@@ -22,6 +22,8 @@ Demo : https://resturant-reservation-yrew.onrender.com
 
 
 ## Screenshots
+![Screenshot (66)](https://github.com/user-attachments/assets/76ed6367-8097-42fe-8607-550fea38685f)
+
 
 ### Setup .env file
 
