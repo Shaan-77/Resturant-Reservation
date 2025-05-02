@@ -8,7 +8,7 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "",
+  "author": "Yahya Shanawaz Mohammed",
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.6",
